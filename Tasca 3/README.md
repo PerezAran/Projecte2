@@ -41,5 +41,6 @@ Primer s'haurà de crear una màquina virtual i connectar-hi el disc clònic. Un
 ---
 
 - [Torna a la pàgina principal](/)
-- Pots trobar la solucio [Aquí](/Tasca03/solució.md)
+- Pots trobar la solucio [Aquí](/Tasca 3/solució.md)
+
 
