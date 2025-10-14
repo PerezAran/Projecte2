@@ -37,3 +37,7 @@ Primer s'haurà de crear una màquina virtual i connectar-hi el disc clònic. Un
    ```bash
    sudo mount /dev/sdXN /mnt
    cat /mnt/etc/passwd
+
+---
+
+- [Torna a la pàgina principal](/)
