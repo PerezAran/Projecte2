@@ -20,6 +20,8 @@ Un cop fet això, anem a **Emmagatzematge** i afegim el disc dur que ens hem des
 
 I ara només faltarà configurar la màquina com ens demana.
 
+![foto](img/imatge_4.jpg)
+
 ---
 
 ## Canviar password:
@@ -27,13 +29,21 @@ I ara només faltarà configurar la màquina com ens demana.
 Ara, un cop arranquem la màquina, hem de mantenir premut **Shift** i una lletra qualsevol.  
 Ens sortirà aquesta primera opció: li donarem a **“Advanced options…”**
 
+![foto](img/imatge_5.jpg)
+
 En el següent menú, haurem de donar-li a la segona opció.
 
+![foto](img/imatge_6.jpg)
+
 Al menú de recuperació, triarem l'opció **root**.
+
+![foto](img/imatge_7.jpg)
 
 Ara haurem de teclejar la següent comanda:  
 
 (miquel és el nom d'usuari) i posar la nova contrasenya.
+
+![foto](img/imatge_8.jpg)
 
 ---
 
@@ -41,24 +51,28 @@ Ara haurem de teclejar la següent comanda:
 
 Llocs web que m'han ajudat: *link*
 
-Fem un:
 
+Fem un: **sudo -i** per entrar com a root.
 
-per entrar com a root.
+![foto](img/imatge_9.jpg)
 
 Ara hem instal·lat al GRUB i li hem posat una contrasenya.
 
+![foto](img/imatge_10.jpg)
+
 (Ara copiarem tot el hash des de `grub` fins al final)
 
-Ara haurem de posar el nom d'usuari i la contrasenya (la contrasenya serà el hash). Això ho posarem a la ruta:  
+Ara haurem de posar el nom d'usuari i la contrasenya (la contrasenya serà el hash). Això ho posarem a la ruta: **/etc/grub.d/40_custom**  
 
+![foto](img/imatge_11.jpg)
 
-I per acabar farem:  
+I per acabar farem un **sudo grub-mkconfig -o /boot/grub/grub.cfg** per aplicar els canvis del GRUB.
 
-per aplicar els canvis del GRUB.
+![foto](img/imatge_12.jpg)
 
 A l'hora d'entrar surt aquest panell.
 
+![foto](img/imatge_13.jpg)
 
 
 
