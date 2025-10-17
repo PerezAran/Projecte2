@@ -16,6 +16,8 @@ Al primer que haurem de fer serà crear una màquina virtual sense res, només p
 Un cop fet això, anem a **Emmagatzematge** i afegim el disc dur que ens hem descarregat:  
 `p02t03-disk1.vmdk`
 
+![foto](img/imatge_2.1.jpg.png)
+
 I ara només faltarà configurar la màquina com ens demana.
 
 ---
@@ -56,6 +58,7 @@ I per acabar farem:
 per aplicar els canvis del GRUB.
 
 A l'hora d'entrar surt aquest panell.
+
 
 
 
