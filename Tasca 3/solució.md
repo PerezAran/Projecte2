@@ -11,7 +11,7 @@
 
 Al primer que haurem de fer serà crear una màquina virtual sense res, només posant el nom, la ruta, i configurar-la com a tipus Linux.
 
-![imatge1](/img/1.jpg)
+![foto](img/1.jpg)
 
 Un cop fet això, anem a **Emmagatzematge** i afegim el disc dur que ens hem descarregat:  
 `p02t03-disk1.vmdk`
@@ -56,6 +56,7 @@ I per acabar farem:
 per aplicar els canvis del GRUB.
 
 A l'hora d'entrar surt aquest panell.
+
 
 
 
