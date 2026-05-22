@@ -53,19 +53,25 @@ Els projectes seran diversos i reals:
 
 ---
 
-## 🧠 **Productes finals**
+# 📁 Índex del Projecte 2
 
-| Codi                 | Producte               | Descripció                 |
-| -------------------- | ---------------------- | -------------------------- |
-| **P01**              | Kanban                 | Organització amb Planner   |
-| **P01 (individual)** | GitHub README          | Presentació personal       |
-| **P02**              | Documentació tècnica   | Afegida al repositori      |
-| **P03**              | Presentació de hosting | Defensa davant el “client” |
+Benvinguts al repositori del Projecte 2. A continuació es mostra la taula indexada amb l'accés directe a tots els productes i tasques d'aquesta fase del projecte.
 
 ---
 
-## 🚀 **L’objectiu final**
+## 📌 Productes (Lliuraments Formals)
 
-Desenvolupar les vostres **competències tècniques i professionals**, aprendre a **treballar en equip**, comunicar amb claredat i entregar **productes d’alta qualitat**.
+| Codi | Producte / Activitat | Enllaç Directe |
+| :--- | :--- | :---: |
+| **P01** | Kanban & Compte de Github | [Anar a la carpeta](./P01%20Kanban%20%26%20Compte%20de%20Github/) |
+| **P02** | Afegir la documentació de seguretat al repo | [Anar a la carpeta](./P02%20Afegir%20la%20documentació%20de%20seguretat%20al%20repo/) |
+| **P03** | Presentació d'elecció de hosting al nostre client | [Anar a la carpeta](./P03%20Presentació%20d'elecció%20de%20hosting%20al%20nostre%20...) |
 
-> 📖 *Ara és el vostre torn d’escriure el següent capítol de la història d’EverPia.*
+---
+
+## 📝 Tasques de Seguiment
+
+| Codi | Descripció de la Tasca | Enllaç Directe |
+| :--- | :--- | :---: |
+| **T02** | Selecció d'un SAI per una empresa client | [Anar a la carpeta](./T02%20Selecció%20d'un%20SAI%20per%20una%20empresa%20client/) |
+| **T03** | Seguretat Lògica recuperant accés a sistemes | [Anar a la carpeta](./T03%20Seguretat%20Lògica%20recuperant%20accés%20a%20sistem...) |
