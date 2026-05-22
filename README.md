@@ -53,7 +53,7 @@ Els projectes seran diversos i reals:
 
 ---
 
-# 📁 Índex del Projecte 2
+## 📁 Índex del Projecte 
 
 Benvinguts al repositori del Projecte 2. A continuació es mostra la taula indexada amb l'accés directe a tots els productes i tasques d'aquesta fase del projecte.
 
