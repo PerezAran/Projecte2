@@ -78,4 +78,4 @@ Benvinguts al repositori del Projecte 2. A continuació es mostra la taula index
 
 ---
 
- | [Torrnar presentacio.md](./presentacio) |
+ | [Torrnar presentacio.md]([./presentacio](https://github.com/PerezAran/presentacio)) |
