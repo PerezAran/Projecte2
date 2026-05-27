@@ -74,4 +74,4 @@ Benvinguts al repositori del Projecte 2. A continuació es mostra la taula index
 | Codi | Descripció de la Tasca | Enllaç Directe |
 | :--- | :--- | :---: |
 | **T02** | Selecció d'un SAI per una empresa client | [Anar a la carpeta](./T02%20Selecció%20d’un%20SAI%20per%20una%20empresa%20client) |
-| **T03** | Seguretat Lògica recuperant accés a sistemes | [Anar a la carpeta](./T03%20Seguretat%20Lògica%20recuperant%20accés%20a%20sistem...) |
+| **T03** | Seguretat Lògica recuperant accés a sistemes | [Anar a la carpeta](./T03%20Seguretat%20Lògica%20recuperant%20accés%20a%20sistemes) |
